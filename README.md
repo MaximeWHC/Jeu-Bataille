@@ -1,6 +1,6 @@
 Le jeu est basé sur Pygame et fonctionne correctement avec la version Python 3.11.
 
-La fonction principale se trouve dans le fichier main.py.
+La fonction principale se trouve dans le fichier main.py.  Avant de lancer le programme, assurez-vous que pygame est installé sur votre ordinateur. Voici un lien vers le tutoriel d'installation : https://www.pygame.org/wiki/GettingStarted
 
 Le contenu du jeu consiste principalement à piloter un avion dans l'espace et à se battre contre des avions ennemis.
 
